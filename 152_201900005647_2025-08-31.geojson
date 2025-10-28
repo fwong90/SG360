@@ -1,0 +1,38 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"idzonacomercial_calc": "152"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[
+-79.0645095,
+-8.0245523
+],
+[
+-79.0691976,
+-8.0101591
+],
+[
+-79.0700238,
+-8.0103503
+],
+[
+-79.0789991,
+-8.0296427
+],
+[
+-79.0645095,
+-8.0245523
+]
+]
+]
+}
+}
+]
+}
