@@ -4,7 +4,7 @@
   {
    "type": "Feature",
    "properties": {
-    "idzonacomercial_calc": 204
+    "idzonacomercial_calc": "204"
    },
    "geometry": {
     "type": "Polygon",
@@ -137,7 +137,7 @@
   {
    "type": "Feature",
    "properties": {
-    "idzonacomercial_calc": 206
+    "idzonacomercial_calc": "206"
    },
    "geometry": {
     "type": "Polygon",
@@ -378,7 +378,7 @@
   {
    "type": "Feature",
    "properties": {
-    "idzonacomercial_calc": 207
+    "idzonacomercial_calc": "207"
    },
    "geometry": {
     "type": "Polygon",
@@ -519,7 +519,7 @@
   {
    "type": "Feature",
    "properties": {
-    "idzonacomercial_calc": 208
+    "idzonacomercial_calc": "208"
    },
    "geometry": {
     "type": "Polygon",
@@ -656,7 +656,7 @@
   {
    "type": "Feature",
    "properties": {
-    "idzonacomercial_calc": 209
+    "idzonacomercial_calc": "209"
    },
    "geometry": {
     "type": "Polygon",
@@ -759,4 +759,5 @@
    }
   }
  ]
+
 }
