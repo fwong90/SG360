@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"idzonacomercial_calc": "0E-9"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+[
+0,
+0,
+0
+]
+]
+]
+}
+}
+]
+}
